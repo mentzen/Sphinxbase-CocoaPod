@@ -1,0 +1,16 @@
+PODS:
+  - Sphinxbase-CocoaPod (0.1.0)
+
+DEPENDENCIES:
+  - Sphinxbase-CocoaPod (from `../`)
+
+EXTERNAL SOURCES:
+  Sphinxbase-CocoaPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Sphinxbase-CocoaPod: 715485ddf17b6f12448959656e680613c9c7adbe
+
+PODFILE CHECKSUM: c11878b3ab404f5f31379ede28bcc711ba533406
+
+COCOAPODS: 1.2.1

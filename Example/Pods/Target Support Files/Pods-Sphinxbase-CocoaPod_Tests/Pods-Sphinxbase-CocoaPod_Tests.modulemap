@@ -1,0 +1,6 @@
+framework module Pods_Sphinxbase_CocoaPod_Tests {
+  umbrella header "Pods-Sphinxbase-CocoaPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

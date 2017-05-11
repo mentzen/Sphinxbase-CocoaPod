@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Sphinxbase-CocoaPod_Tests' do
+  pod 'Sphinxbase-CocoaPod', :path => '../'
+  
+  
+end
