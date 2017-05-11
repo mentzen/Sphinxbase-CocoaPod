@@ -1,6 +1,5 @@
 # Sphinxbase-CocoaPod
 
-[![CI Status](http://img.shields.io/travis/mentzen/Sphinxbase-CocoaPod.svg?style=flat)](https://travis-ci.org/mentzen/Sphinxbase-CocoaPod)
 [![Version](https://img.shields.io/cocoapods/v/Sphinxbase-CocoaPod.svg?style=flat)](http://cocoapods.org/pods/Sphinxbase-CocoaPod)
 [![License](https://img.shields.io/cocoapods/l/Sphinxbase-CocoaPod.svg?style=flat)](http://cocoapods.org/pods/Sphinxbase-CocoaPod)
 [![Platform](https://img.shields.io/cocoapods/p/Sphinxbase-CocoaPod.svg?style=flat)](http://cocoapods.org/pods/Sphinxbase-CocoaPod)
@@ -22,7 +21,7 @@ pod "Sphinxbase-CocoaPod"
 
 ## Author
 
-mentzen, hiller@dig.de
+mentzen
 
 ## License
 
