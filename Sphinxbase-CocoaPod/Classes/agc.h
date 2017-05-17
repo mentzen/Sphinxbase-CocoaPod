@@ -71,7 +71,7 @@
 #include "sphinxbase_export.h"
 
 #include "prim_type.h"
-#include "fe.h2"
+#include "fe.h"
 
 /** \file agc.h
  *  \brief routine that implements automatic gain control
