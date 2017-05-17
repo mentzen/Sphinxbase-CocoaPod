@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Sphinxbase-CocoaPod'
-  s.version          = '0.1.0'
-  s.summary          = 'A simple CocoaPod for Shpinxbase'
+  s.version          = '0.1.1'
+  s.summary          = 'A simple CocoaPod for Sphinxbase'
 
   s.description      = <<-DESC
 This CocoaPod is used by Pocketsphinx and other Pods.
@@ -14,7 +14,7 @@ This CocoaPod is used by Pocketsphinx and other Pods.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Sphinxbase-CocoaPod/Classes/**/*.h'
+  s.source_files = 'Sphinxbase-CocoaPod/Classes/**/*.{h,a}'
   
   # s.resource_bundles = {
   #   'Sphinxbase-CocoaPod' => ['Sphinxbase-CocoaPod/Assets/*.png']
