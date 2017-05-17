@@ -43,7 +43,7 @@
 #ifndef __SBTHREAD_H__
 #define __SBTHREAD_H__
 
-#include <sphinx_config.h>
+#include "sphinx_config.h"
 
 #include <Sphinxbase-CocoaPod/sphinxbase_export.h>
 #include <Sphinxbase-CocoaPod/cmd_ln.h>

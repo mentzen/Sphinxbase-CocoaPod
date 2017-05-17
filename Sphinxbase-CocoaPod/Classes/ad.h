@@ -41,7 +41,7 @@
 #ifndef _AD_H_
 #define _AD_H_
 
-#include <sphinx_config.h>
+#include "sphinx_config.h"
 
 #include <Sphinxbase-CocoaPod/sphinxbase_export.h>
 #include <Sphinxbase-CocoaPod/prim_type.h>
