@@ -52,13 +52,13 @@
 #include <string.h>
 
 /* SphinxBase headers. */
-#include <Sphinxbase-CocoaPod/prim_type.h>
-#include <Sphinxbase-CocoaPod/glist.h>
-#include <Sphinxbase-CocoaPod/logmath.h>
-#include <Sphinxbase-CocoaPod/bitvec.h>
-#include <Sphinxbase-CocoaPod/hash_table.h>
-#include <Sphinxbase-CocoaPod/listelem_alloc.h>
-#include <Sphinxbase-CocoaPod/sphinxbase_export.h>
+#include "prim_type.h"
+#include "glist.h"
+#include "logmath.h"
+#include "bitvec.h"
+#include "hash_table.h"
+#include "listelem_alloc.h"
+#include "sphinxbase_export.h"
 
 #ifdef __cplusplus
 extern "C" {

@@ -57,10 +57,10 @@
 #define _NEW_FE_H_
 
 /* Win32/WinCE DLL gunk */
-#include <Sphinxbase-CocoaPod/sphinxbase_export.h>
+#include "sphinxbase_export.h"
 
-#include <Sphinxbase-CocoaPod/cmd_ln.h>
-#include <Sphinxbase-CocoaPod/fixpoint.h>
+#include "cmd_ln.h"
+#include "fixpoint.h"
 
 #ifdef __cplusplus
 extern "C" {

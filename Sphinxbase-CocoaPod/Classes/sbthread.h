@@ -45,8 +45,8 @@
 
 #include "sphinx_config.h"
 
-#include <Sphinxbase-CocoaPod/sphinxbase_export.h>
-#include <Sphinxbase-CocoaPod/cmd_ln.h>
+#include "sphinxbase_export.h"
+#include "cmd_ln.h"
 
 #ifdef __cplusplus
 extern "C" {

@@ -43,7 +43,7 @@
 #ifndef __MMIO_H__
 #define __MMIO_H__
 
-#include <Sphinxbase-CocoaPod/sphinxbase_export.h>
+#include "sphinxbase_export.h"
 
 #ifdef __cplusplus
 extern "C" {

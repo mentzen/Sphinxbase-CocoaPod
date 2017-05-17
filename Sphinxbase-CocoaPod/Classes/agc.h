@@ -68,10 +68,10 @@
 #define _S3_AGC_H_
 
 /* Win32/WinCE DLL gunk */
-#include <Sphinxbase-CocoaPod/sphinxbase_export.h>
+#include "sphinxbase_export.h"
 
-#include <Sphinxbase-CocoaPod/prim_type.h>
-#include <Sphinxbase-CocoaPod/fe.h>
+#include "prim_type.h"
+#include "fe.h2"
 
 /** \file agc.h
  *  \brief routine that implements automatic gain control
