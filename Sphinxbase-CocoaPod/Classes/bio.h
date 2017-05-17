@@ -71,9 +71,9 @@
 #include <stdarg.h>
 
 /* Win32/WinCE DLL gunk */
-#include "sphinxbase_export.h>
-#include "prim_type.h>
-#include "byteorder.h>
+#include "sphinxbase_export.h"
+#include "prim_type.h"
+#include "byteorder.h"
 
 /** \file bio.h
  * \brief Cross platform binary IO to process files in sphinx3 format. 
